@@ -5,6 +5,7 @@ import Hero from './Components/Hero/Hero';
 import Album from './Components/Album/Album';
 import Shows from './Components/Shows/Shows';
 import Artist from './Components/Artist/Artist';
+import Tickets from './Components/Tickets/Tickets';
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
      <Album />
      <Shows />
      <Artist />
+     <Tickets />
     </>
   );
 }

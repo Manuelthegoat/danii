@@ -9,7 +9,7 @@ const Artist = () => {
 
 				<div class="col-lg-4 artist_image_col">
 					<div class="artist_image">
-						<img src="images/u.png" alt=""/>
+						<img src="images/dani2.jpg" alt=""/>
 					</div>
 				</div>
 
