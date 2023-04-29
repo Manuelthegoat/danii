@@ -6,6 +6,7 @@ import Album from './Components/Album/Album';
 import Shows from './Components/Shows/Shows';
 import Artist from './Components/Artist/Artist';
 import Tickets from './Components/Tickets/Tickets';
+import Footer from './Components/Footer/Footer';
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
      <Shows />
      <Artist />
      <Tickets />
+     <Footer />
     </>
   );
 }

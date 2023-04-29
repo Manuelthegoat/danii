@@ -16,7 +16,7 @@ const Artist = () => {
 				<div class="col-lg-7 offset-lg-1">
 					<div class="artist_content">
 						<div class="section_title_container">
-							<div class="section_subtitle">Events</div>
+							<div class="section_subtitle">About</div>
 							<div class="section_title"><h1>The Artist</h1></div>
 						</div>
 						<div class="artist_text">
